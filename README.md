@@ -1,0 +1,2 @@
+# webstr
+Static webstr page
